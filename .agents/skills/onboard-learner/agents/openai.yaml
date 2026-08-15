@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learner Onboarding"
+  short_description: "Set up learners and starter curricula"
+  default_prompt: "Use $onboard-learner to set up my profile and initial curriculum."
